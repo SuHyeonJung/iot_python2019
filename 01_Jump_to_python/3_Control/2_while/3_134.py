@@ -18,7 +18,7 @@ coffee_price = 300
 #        print("커피가 다 떨어졌습니다. 판매를 중지합니다.")
 #        break
 
-step 2]
+# step 2]
 while True:
     money = int(input("돈을 넣어주세요: "))
     if money <coffee_price:
@@ -35,3 +35,4 @@ while True:
         print("커피가 다 떨어졌습니다.판매를 중지합니다.")
         break
 
+print("프로그램 종료")
