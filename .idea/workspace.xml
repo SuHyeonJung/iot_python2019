@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23772270-6602-4b28-a7c6-291ad19c7e9d" name="Default Changelist" comment="최초 반영">
+    <list default="true" id="23772270-6602-4b28-a7c6-291ad19c7e9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/1_rhombus_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/2_rhombus_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/3_rhombus_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/4_rhombus_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/5_rhombus_v1_pyyhon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/6_rhombus_v2_python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Jump_to_python/3_Control/2_while/3_134.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Jump_to_python/3_Control/2_while/3_134.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,38 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_Jump_to_python/2_basic/2_string_formatting/3_68.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_Jump_to_python/1_intro/first_pycharm_program.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01_Jump_to_python/3_Control/2_while/3_134.py">
+        <entry file="file://$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/6_rhombus_v2_python.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135">
-              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_Jump_to_python/1_intro/hello_world.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <state relative-caret-position="390">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -67,6 +45,14 @@
         <option value="$PROJECT_DIR$/01_Jump_to_python/1_intro/hello_world.py" />
         <option value="$PROJECT_DIR$/01_Jump_to_python/1_intro/first_pycharm_program.py" />
         <option value="$PROJECT_DIR$/01_Jump_to_python/3_Control/2_while/3_134.py" />
+        <option value="$PROJECT_DIR$/01_Jump_to_python/3_Control/2_while/test.py" />
+        <option value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/1_rhombus_v1.py" />
+        <option value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/2_rhombus_v2.py" />
+        <option value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/3_rhombus_v3.py" />
+        <option value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/test.py" />
+        <option value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/4_rhombus_v3.py" />
+        <option value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/5_rhombus_v1_pyyhon.py" />
+        <option value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/6_rhombus_v2_python.py" />
       </list>
     </option>
   </component>
@@ -106,13 +92,62 @@
               <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
+              <item name="0_example" type="462c0819:PsiDirectoryNode" />
+              <item name="1_112" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
+              <item name="0_example" type="462c0819:PsiDirectoryNode" />
+              <item name="2_146" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
+              <item name="0_example" type="462c0819:PsiDirectoryNode" />
+              <item name="4_0704_t" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
               <item name="2_basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
+              <item name="2_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="1_numeric" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
+              <item name="2_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="2_string_formatting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
+              <item name="2_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="3_list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
               <item name="3_Control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
+              <item name="3_Control" type="462c0819:PsiDirectoryNode" />
+              <item name="1_if" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
@@ -120,6 +155,13 @@
               <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
               <item name="3_Control" type="462c0819:PsiDirectoryNode" />
               <item name="2_while" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
+              <item name="3_Control" type="462c0819:PsiDirectoryNode" />
+              <item name="3_for" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -131,8 +173,14 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\01_Jump_to_python\0_example\4_0704_t" />
+      <recent name="C:\Python_Workspace\01_Jump_to_python\4_we" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,8 +194,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3_134">
-    <configuration name="3_134" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.6_rhombus_v2_python">
+    <configuration name="3_rhombus_v3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Jump_to_python/3_Control/2_while" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Jump_to_python/3_Control/2_while/3_134.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/3_rhombus_v3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="first_pycharm_program" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4_rhombus_v3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,11 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Jump_to_python/1_intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Jump_to_python/1_intro/first_pycharm_program.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/4_rhombus_v3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5_rhombus_v1_pyyhon" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,11 +245,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Jump_to_python/1_intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Jump_to_python/1_intro/hello_world.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/5_rhombus_v1_pyyhon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6_rhombus_v2_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/6_rhombus_v2_python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,9 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3_134" />
-        <item itemvalue="Python.first_pycharm_program" />
-        <item itemvalue="Python.hello_world" />
+        <item itemvalue="Python.6_rhombus_v2_python" />
+        <item itemvalue="Python.5_rhombus_v1_pyyhon" />
+        <item itemvalue="Python.4_rhombus_v3" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.3_rhombus_v3" />
       </list>
     </recent_temporary>
   </component>
@@ -236,19 +328,26 @@
       <option name="project" value="LOCAL" />
       <updated>1562203155540</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="업데이트">
+      <created>1562205832646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562205832646</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1040" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24244833" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24244833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3296582" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39911798" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3351709" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911798" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -261,13 +360,13 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24244833" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24244833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3296582" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39911798" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3351709" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911798" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -282,9 +381,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="최초 반영" />
-    <option name="LAST_COMMIT_MESSAGE" value="최초 반영" />
+    <MESSAGE value="업데이트" />
+    <option name="LAST_COMMIT_MESSAGE" value="업데이트" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/2_rhombus_v2.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="money &lt;coffee_price" language="Python" />
@@ -326,20 +435,6 @@
     <entry file="file://$PROJECT_DIR$/01_Jump_to_python/1_intro/33_hello_world.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/2_basic/2_string_formatting/3_68.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/1_intro/first_pycharm_program.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01_Jump_to_python/1_intro/hello_world.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -354,10 +449,110 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/3_Control/2_while/test_print.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/4_we/read.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/01_Jump_to_python/3_Control/2_while/3_134.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        <state relative-caret-position="317">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/1_intro/first_pycharm_program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/2_basic/2_string_formatting/3_68.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/3_Control/1_if/2_t.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/3_Control/2_while/4_t_prompt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/0_example/1_112/3_112.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="311" selection-start-line="311" selection-end-line="311" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/2_rhombus_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/3_rhombus_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/0_example/2_146/3_147.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/4_rhombus_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/1_rhombus_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/5_rhombus_v1_pyyhon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/0_example/4_0704_t/6_rhombus_v2_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
         </state>
       </provider>
     </entry>
