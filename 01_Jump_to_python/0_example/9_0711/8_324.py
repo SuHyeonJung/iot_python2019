@@ -1,0 +1,16 @@
+f = open("abc.txt", 'r')
+lines = f.read()
+f.close()
+line = lines.split()
+print(line)
+line.reverse()
+print(line)
+line= ",".join(line)
+print(line)
+line= line.replace(',', '\n')
+print(line)
+f = open("abc.txt", 'w')
+f.write(line)
+f.close()
+
+
