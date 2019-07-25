@@ -7,8 +7,9 @@ print("신분: ", a)
 b =[]
 c = {"hi":"hello", "good":"bad", 1 : 3}
 f = {}
-for index in c:
-    f[str(index)] = index.values()
+# print(c['hi'].values())
+for index in c.keys():
+    f[str(index)] = str(c[index])
 print(f)
 # d = {"hi":"hello", "good":"bad", "total":[{"high":"low"}]}
 # e = d
