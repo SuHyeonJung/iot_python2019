@@ -90,10 +90,10 @@ def student_search(tree, note):
                 else:
                     while True:
                         input_search = input("검색어를 입력하세요: ")
-                        for key in getiterator("student"):
-                            if
-                            # input_search = input("검색어를 입력하세요: ")
-                            print(key.text)
+                        for parent in note.getiterator("student"):
+                            if parent.find(input_search) in parent:
+                                print(parent.get("name"))
+                                print(parent.get("ID"))
                             # print("- 성별: ", country.get("sex"))
 
                             break
