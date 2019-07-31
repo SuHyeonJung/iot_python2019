@@ -1,0 +1,58 @@
+import re
+p =re.compile('.')
+
+m = p.match('1')
+print(m)
+m = p.match('ab')
+print(m)
+m = p.match('-')
+print(m)
+m = p.match('   ')
+print(m)
+m = p.match('''
+1''')
+print(m)
+m = p.match(' ')
+print(m)
+
+p = re.compile('a.b')
+m = p.match('aab')
+print(m)
+m = p.match('a0b')
+print(m)
+m = p.match('abc')
+print(m)
+
+p = re.compile('a[.]b')
+m = p.match('aab')
+print(m)
+m = p.match('a0b')
+print(m)
+m = p.match('abc')
+print(m)
+
+p = re.compile('a..[.]txt')
+m = p.match('aab.txt')
+print(m)
+m = p.match('a1.txt')
+print(m)
+
+
+p = re.compile('...')
+m = p.match('dad')
+print(m)
+m = p.match('Hi! Hello')
+print(m)
+
+p = re.compile('....')
+m = p.match('pen.')
+print(m)
+
+p = re.compile('pen.')
+m = p.match('pen.')
+print(m)
+p = re.compile('pen.')
+m = p.match('pen!')
+print(m)
+m = p.match('pen[.]')
+print(m)

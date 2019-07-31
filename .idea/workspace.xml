@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23772270-6602-4b28-a7c6-291ad19c7e9d" name="Default Changelist" comment="업데이트">
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data/json_exam_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/01_Simulator/01_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/01_Simulator/test.py" afterDir="false" />
+    <list default="true" id="23772270-6602-4b28-a7c6-291ad19c7e9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/01_Simulator/02_parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/01_Simulator/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/01_Simulator/대구_대기정보_가상.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/01_regident_registration_number_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/02_regident_registration_number_re.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/03_293.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/04_294_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/05_294_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/06_294_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/07_294_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/08_295.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/09_295.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/10_296.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/11_297.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/12_299_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/13_300_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/14_300_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/15_301.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/16_302.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/17_303_DOTALL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/18_303_IGNORECASE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/19_305_MULTILINE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/20_307_backslash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/21_309.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/22_310.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/23_311.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/10_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/11_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/12_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/1_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/2_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/3_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/4_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/5_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/6_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/7_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/9_exam.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/01_Simulator/01_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/01_Simulator/01_basic.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,20 +70,23 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\99_example" />
+      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\01_basic" />
+      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression" />
+      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\01_Beautiful_Soup" />
+      <recent name="C:\Python_Workspace\01_Jump_to_python\5_App\3_Package\game_backup" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\99_example" />
+      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\01_basic" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\02_OpenAPI\02_data" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\01_XML" />
       <recent name="C:\Python_Workspace\01_Jump_to_python\0_example\7_0707" />
-      <recent name="C:\Python_Workspace\01_Jump_to_python\5_App\outer_function" />
-      <recent name="C:\Python_Workspace\01_Jump_to_python\5_App\5_function" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Python_Workspace\01_Jump_to_python\5_App\3_Package\game_backup" />
-      <recent name="C:\Python_Workspace\01_Jump_to_python\5_App\3_Package\new_pkg" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -62,8 +101,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01_basic">
-    <configuration name="01_basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.12_exam">
+    <configuration name="10_exam" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/01_Simulator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/01_Simulator/01_basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/10_exam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11_exam" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data/code_json.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/11_exam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="json_exam_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12_exam" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data/json_exam_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/12_exam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="process_Sample_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7_exam" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data/process_Sample_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/7_exam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9_exam" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/01_Simulator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/01_Simulator/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/9_exam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,19 +208,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.process_Sample_example" />
-      <item itemvalue="Python.code_json" />
-      <item itemvalue="Python.json_exam_2" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.01_basic" />
+      <item itemvalue="Python.7_exam" />
+      <item itemvalue="Python.9_exam" />
+      <item itemvalue="Python.10_exam" />
+      <item itemvalue="Python.11_exam" />
+      <item itemvalue="Python.12_exam" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01_basic" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.json_exam_2" />
-        <item itemvalue="Python.code_json" />
-        <item itemvalue="Python.process_Sample_example" />
+        <item itemvalue="Python.12_exam" />
+        <item itemvalue="Python.11_exam" />
+        <item itemvalue="Python.9_exam" />
+        <item itemvalue="Python.10_exam" />
+        <item itemvalue="Python.7_exam" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564129434725</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="업데이트">
+      <created>1564388595821</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1564388595821</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -340,31 +386,39 @@
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data/process_Sample_1.py</url>
-          <line>75</line>
-          <option name="timeStamp" value="66" />
+          <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data/process_Sample_example.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data/process_Sample_example.py</url>
-          <line>76</line>
-          <option name="timeStamp" value="71" />
+          <line>4</line>
+          <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data/json_exam_2.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="76" />
+          <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/01_Simulator/02_parsing.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data/json_exam_2.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="77" />
+          <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/01_Simulator/02_parsing.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/01_regident_registration_number_python.py</url>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/01_basic/01_regident_registration_number_python.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="103" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="json_weather_result" language="Python" />
-        <watch expression="url" language="Python" />
+        <watch expression="int(index[&quot;pm25Value&quot;])" language="Python" />
       </configuration>
     </watches-manager>
   </component>
