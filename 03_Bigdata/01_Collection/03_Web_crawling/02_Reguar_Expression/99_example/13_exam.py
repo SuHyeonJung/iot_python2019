@@ -8,5 +8,5 @@ def check_text(text):
 
 print(check_text('The quick brown lazy dog.'))
 print(check_text('Python Exercises.'))
-print(check_text('babbAcb ze der '))
+print(check_text('babbAcb lze der '))
 
