@@ -2,10 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23772270-6602-4b28-a7c6-291ad19c7e9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/01_Beautiful_soup_html.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/02_requests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/03_liblary_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Raspberry_Pi/4_sori_sensor/Connect_Raspberry1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Raspberry_Pi/4_sori_sensor/sock_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Raspberry_Pi/Connect_Raspberry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/99_report/190807.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/03_regular_iblary_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/10csv_reader_sum_average_form_multiple_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/10pandas_sum_average_from_multiple_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/11csv_reader_select_contiguous_rows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/11pandas_select_contiguous_rows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/12csv_reader_add_header_row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/12pandas_add_header_row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/1csv_simple_parsing_and_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/1pandas_parsing_and_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/2csv_reader_parsing_and_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/3pandas_value_meets_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/4csv_reader_value_in_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/4pandas_value_in_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/5csv_reader_value_matches_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/5pands_value_matches_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/6csv_reader_column_by_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/6pandas_column_by_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/7csv_reader_column_by_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/7pandas_column_by_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/8csv_reader_counts_for_multiple_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/9csv_reader_concat_rows_from_multiple_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/9pandas_concat_rows_from_multiple_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/98_190911_test/01_json_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/98_190911_test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/99_study/190909.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_mic_test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_mic_test/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_mic_test/voice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_mic_test/voice_kr.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/03_liblary_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/03_liblary_request.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,16 +65,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/output_files" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\1. CSV\output_files" />
+      <recent name="C:\Python_Workspace\04_mic_test" />
+      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\01_Beautiful_Soup" />
+      <recent name="C:\Python_Workspace\02_Raspberry_Pi\4_sori_sensor" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\99_example" />
-      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\02_Intermediate" />
-      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\01_basic" />
-      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\02_OpenAPI\02_data" />
-      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\01_XML" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\99_example" />
@@ -65,8 +96,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.03_liblary_request">
-    <configuration name="01_Beautiful_soup_html" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.01_json_data">
+    <configuration name="01_json_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,12 +105,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/98_190911_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/01_Beautiful_soup_html.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/98_190911_test/01_json_data.py" />
+      <option name="PARAMETERS" value="output_file/190911_accident.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -87,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_requests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5pands_value_matches_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,12 +126,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/02_requests.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/5pands_value_matches_pattern.py" />
+      <option name="PARAMETERS" value="supplier_data.csv output_files/5output_index_false_pandas.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -108,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_liblary_request" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7pandas_column_by_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,12 +147,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/03_liblary_request.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/7pandas_column_by_name.py" />
+      <option name="PARAMETERS" value="supplier_data.csv output_files/7pandas_index_false.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -129,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="31_exam" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9csv_reader_concat_rows_from_multiple_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,12 +168,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Reguar_Expression/99_example/31_exam.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/9csv_reader_concat_rows_from_multiple_files.py" />
+      <option name="PARAMETERS" value=". output_files/9csv_multiple_files.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -150,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pasing_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +189,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_naver/02_json_data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/98_190911_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_naver/02_json_data/pasing_practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/98_190911_test/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,19 +203,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.pasing_practice" />
-      <item itemvalue="Python.31_exam" />
-      <item itemvalue="Python.01_Beautiful_soup_html" />
-      <item itemvalue="Python.02_requests" />
-      <item itemvalue="Python.03_liblary_request" />
+      <item itemvalue="Python.7pandas_column_by_name" />
+      <item itemvalue="Python.9csv_reader_concat_rows_from_multiple_files" />
+      <item itemvalue="Python.5pands_value_matches_pattern" />
+      <item itemvalue="Python.01_json_data" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03_liblary_request" />
-        <item itemvalue="Python.01_Beautiful_soup_html" />
-        <item itemvalue="Python.02_requests" />
-        <item itemvalue="Python.31_exam" />
-        <item itemvalue="Python.pasing_practice" />
+        <item itemvalue="Python.01_json_data" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.5pands_value_matches_pattern" />
+        <item itemvalue="Python.9csv_reader_concat_rows_from_multiple_files" />
+        <item itemvalue="Python.7pandas_column_by_name" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564647786402</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="업데이트">
+      <created>1564734296571</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1564734296571</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -422,16 +460,33 @@
           <line>26</line>
           <option name="timeStamp" value="120" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/1pandas_parsing_and_write.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/2csv_reader_parsing_and_write.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/7csv_reader_column_by_name.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/9csv_reader_concat_rows_from_multiple_files.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="soup.prettify()" language="Python" />
-        <watch expression="soup" language="Python" />
         <watch expression="__py_debug_temp_var_780179349" />
-        <watch expression="tr" language="Python" />
-        <watch expression="table.find_all('tr')" language="Python" />
-        <watch expression="td.find('img')" language="Python" />
+        <watch expression="range(len(header))" language="Python" />
+        <watch expression="json_accident_result" language="Python" />
       </configuration>
     </watches-manager>
   </component>
