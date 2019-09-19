@@ -1,3 +1,4 @@
+# 정수현
 import urllib.request
 import datetime
 import json
@@ -20,15 +21,15 @@ def get_Request_URL(url):
         print("[%s] Error for URL : %s" % (datetime.datetime.now(), url))
         return None
 
-def get_accident_URL(now_date, sido, gugun):
+def get_accident_URL(now_date, sido):
     end_point="http://apis.data.go.kr/B552061/frequentzoneLg/getRestFrequentzoneLg"
 
     parameters = "?serviceKey="+access_key
     parameters += "&searchYearCd="+str(now_date)
     parameters += "&siDo="+str(sido)
-    parameters += "&guGun="+str(gugun)
+    parameters += "&guGun="
     parameters += "&type=json"
-    parameters += "&numOfRows=10&pageNo=1"
+    parameters += "&numOfRows=100&pageNo=1"
     url = end_point+parameters
 
     retData = get_Request_URL(url)
@@ -39,9 +40,9 @@ def get_accident_URL(now_date, sido, gugun):
     else:
         return json.loads(retData)
 
-def Number_of_traffic_accident_Json(now_date, sido, gugun):
+def Number_of_traffic_accident_Json(now_date, sido):
 
-    jsonData = get_accident_URL(now_date, sido, gugun)
+    jsonData = get_accident_URL(now_date, sido)
     index = 0
     json_accident_result = []
     for i in jsonData['items']['item']:
@@ -50,12 +51,16 @@ def Number_of_traffic_accident_Json(now_date, sido, gugun):
         losses = str(losses)
         number_of_deaths = jsonData['items']['item'][index]['dth_dnv_cnt']
         number_of_deaths = str(number_of_deaths)
+        if len(number_of_deaths) == 1:
+            number_of_deaths = number_of_deaths.zfill(2)
         number_of_injured = jsonData['items']['item'][index]['se_dnv_cnt']
         number_of_injured = str(number_of_injured)
         if len(number_of_injured) == 1:
-            number_of_minor_injured = number_of_minor_injured.zfill(2)
+            number_of_injured = number_of_injured.zfill(2)
         number_of_minor_injured = jsonData['items']['item'][index]['sl_dnv_cnt']
         number_of_minor_injured = str(number_of_minor_injured)
+        if len(number_of_minor_injured) == 1:
+            number_of_minor_injured = number_of_minor_injured.zfill(2)
         json_accident_result.append({location, losses, number_of_deaths,
                                      number_of_injured, number_of_minor_injured})
         index = index + 1
@@ -69,13 +74,13 @@ def Number_of_traffic_accident_Json(now_date, sido, gugun):
             row = sorted(row)
             filewriter.writerow(row)
 
-    print('동구_2017년_사고_다발정보_서비스.csv SAVED\n')
+    print('대구_2017년_사고_다발정보_서비스.csv SAVED\n')
 
 def accident_Info():
     now_data = 2017
     sido = 27
-    gugun = 140
-    Number_of_traffic_accident_Json(now_data, sido, gugun)
+    # gugun = 140
+    Number_of_traffic_accident_Json(now_data, sido)
 
 
 accident_Info()
