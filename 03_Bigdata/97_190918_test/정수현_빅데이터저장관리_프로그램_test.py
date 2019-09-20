@@ -145,6 +145,7 @@ while True:
                 if not os.path.exists(f'{base_repository_name}{dir_delimeter}{type_folder_1}'):
                     os.mkdir(f'{base_repository_name}{dir_delimeter}{type_folder_1}')
                     number += 1
+                    dest_file_name = f'{base_repository_name}{dir_delimeter}{type_folder_1}{dir_delimeter}{file_name}1.{file_format}'
                     if not os.path.exists(dest_file_name):
                         save_file(1, base_repository_name, file_name, file_format, file_size_limit)
                     else:
@@ -171,18 +172,20 @@ while True:
                 if not os.path.exists(f'{base_repository_name}{dir_delimeter}{type_folder_2}'):
                     os.mkdir(f'{base_repository_name}{dir_delimeter}{type_folder_2}')
                     number_1 += 1
+                    dest_file_name = f'{base_repository_name}{dir_delimeter}{type_folder_2}{dir_delimeter}{file_name}1.{file_format}'
                     if not os.path.exists(dest_file_name):
                         save_file(1, base_repository_name, file_name, file_format, file_size_limit)
                     else:
                         save_file(file_count(), base_repository_name, file_name, file_format, file_size_limit)
                 else:
                     number_1 += 1
+                    dest_file_name = f'{base_repository_name}{dir_delimeter}{type_folder_2}{dir_delimeter}{file_name}1.{file_format}'
                     if not os.path.exists(dest_file_name):
                         save_file(1, base_repository_name, file_name, file_format, file_size_limit)
                     else:
                         save_file(file_count(), base_repository_name, file_name, file_format, file_size_limit)
             elif number_1 != 1:
-                dest_file_name = f'{file_name}1.{file_format}'
+                dest_file_name = f'{base_repository_name}{dir_delimeter}{type_folder_2}{dir_delimeter}{file_name}1.{file_format}'
                 if not os.path.exists(dest_file_name):
                     save_file(1, base_repository_name, file_name, file_format, file_size_limit)
                 else:

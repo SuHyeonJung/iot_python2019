@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23772270-6602-4b28-a7c6-291ad19c7e9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램_final.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/97_190918_test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -286,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568881722167</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="업데이트">
+      <created>1568959123110</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568959123110</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,11 +488,6 @@
           <url>file://$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램_final.py</url>
           <line>126</line>
           <option name="timeStamp" value="160" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램_test.py</url>
-          <line>138</line>
-          <option name="timeStamp" value="161" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
