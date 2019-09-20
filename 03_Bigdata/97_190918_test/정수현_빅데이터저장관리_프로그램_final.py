@@ -14,7 +14,7 @@ simulation_data = ['1111', '상주면', '남해군', '보리암', '1', '14137', 
 file_size = 0
 number = 1
 number_1 = 1
-# link = 'C:\\Python_Workspace\\03_Bigdata\\97_190918_test\\'
+link = 'C:\\Python_Workspace\\03_Bigdata\\97_190918_test\\'
 is_header = False
 is_first = True
 
@@ -22,6 +22,10 @@ is_first = True
 def getTourPoint_csv(filewriter):
     filewriter.writerow(simulation_data)
     return
+
+# def getTourPoint_exel(show_exel):
+#     show_exel.append(simulation_data)
+#     return
 
 def get_dest_file_name(file_index, base_repository_name, file_name, file_format, file_size_limit):
     global is_header
@@ -35,6 +39,7 @@ def get_dest_file_name(file_index, base_repository_name, file_name, file_format,
         if file_size > file_size_limit:
             dest_file_name = f'{file_name}{str(file_index+1)}.{file_format}'
             is_header = True
+            file_size = 0
         else:
             is_header = False
     except:
@@ -82,15 +87,12 @@ def save_file(file_index, base_repository_name, file_name, file_format, file_siz
         exel_output_file.save(dest_file_name)
 
 def file_count():
-    global base_repository_name
-    global type_folder_1
-    global type_folder_2
     if file_format == 'csv':
-        csv_sub_name = f'{base_repository_name}{dir_delimeter}{type_folder_1}'
+        csv_sub_name = f'{link}{base_repository_name}{dir_delimeter}{type_folder_1}'
         index = len(os.listdir(csv_sub_name))
         return index
     elif file_format == 'xlsx':
-        xlsx_sub_name = f'{base_repository_name}{dir_delimeter}{type_folder_2}'
+        xlsx_sub_name = f'{link}{base_repository_name}{dir_delimeter}{type_folder_2}'
         index = len(os.listdir(xlsx_sub_name))
         return index
 
@@ -154,7 +156,7 @@ while True:
 
         if file_format == 'xlsx':
             if number_1 == 1:
-                if not os.path.exists(base_repository_name) and os.path.exists(dest_file_name):
+                if not os.path.exists(base_repository_name):
                     os.mkdir(base_repository_name)
                     os.chdir(base_repository_name)
                     os.mkdir(type_folder_2)

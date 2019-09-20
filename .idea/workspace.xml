@@ -2,52 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23772270-6602-4b28-a7c6-291ad19c7e9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/10excel_column_by_name_all_worksheets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/10pandas_column_by_name_all_worksheets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/11excel_value_meets_condition_set_of_worksheets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/11pandas_value_meets_condition_set_of_worksheets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/12excel-introspect_all_workbooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/13excel)contact_data_from_multiple_workbooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/13pandas_concat_data_from_multiple_workbooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/14excel_sum_average_multiple_workbooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/1excel_introspect_workbook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/2excel_parsing_and_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/3excel_parsing_and_write_keep_dates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/3pandas_parsing_and_write_keep_dates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/4excel_value_meets_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/4pandas_value_meets_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/5excel_value_in_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/5pandas_value_in_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/6excel_value_matches_pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/6pandas_value_matches_pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/7excel_column_by_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/7pandas_column_by_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/8excel_column_by_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/8pandas_column_by_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/9excel_value_meets_condition_all_worksheets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/9pandas_value_meets_condition_all_worksheets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/1db_count_rows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/1db_sqlite_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/2db_insert_rows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/2db_non_volatile_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/2db_select_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/3db_update_rows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/4db_delete_row.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/exe_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/1_Distribututed_Repository_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/2_Distribututed_Repository_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/3_Distribututed_Repository_v3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/4_Distribututed_Repository_v4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/5_Distribututed_Repository_v5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/98_190911_test/01_json_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/98_190911_test/정수현_빅데이터수집기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/98_190911_test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/98_190911_test/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_mic_test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_mic_test/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_mic_test/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_mic_test/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_mic_test/voice.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_mic_test/voice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_mic_test/voice_kr.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_mic_test/voice_kr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/97_190918_test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,49 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.정수현_빅데이터저장관리_프로그램">
-    <configuration name="2db_select_condition" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Workspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/2db_select_condition.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="6_Distribututed_Repository_v6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Workspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/02_Distributed_Repository" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/02_Distributed_Repository/6_Distribututed_Repository_v6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.정수현_빅데이터저장관리_프로그램_test">
     <configuration name="정수현_빅데이터저장관리_프로그램" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="정수현_빅데이터저장관리_프로그램2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,11 +98,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/97_190918_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/exe_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="정수현_빅데이터저장관리_프로그램_final" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/97_190918_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램_final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="정수현_빅데이터저장관리_프로그램_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/97_190918_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,19 +175,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2db_select_condition" />
-      <item itemvalue="Python.exe_test" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.정수현_빅데이터저장관리_프로그램2" />
+      <item itemvalue="Python.정수현_빅데이터저장관리_프로그램_final" />
       <item itemvalue="Python.정수현_빅데이터저장관리_프로그램" />
-      <item itemvalue="Python.6_Distribututed_Repository_v6" />
+      <item itemvalue="Python.정수현_빅데이터저장관리_프로그램_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.정수현_빅데이터저장관리_프로그램_test" />
         <item itemvalue="Python.정수현_빅데이터저장관리_프로그램" />
-        <item itemvalue="Python.6_Distribututed_Repository_v6" />
+        <item itemvalue="Python.정수현_빅데이터저장관리_프로그램_final" />
+        <item itemvalue="Python.정수현_빅데이터저장관리_프로그램2" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.exe_test" />
-        <item itemvalue="Python.2db_select_condition" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568183621425</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="업데이트">
+      <created>1568881722167</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568881722167</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -515,25 +483,27 @@
           <option name="timeStamp" value="138" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램.py</url>
-          <line>115</line>
-          <option name="timeStamp" value="154" />
+          <url>file://$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램_final.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="160" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램.py</url>
-          <line>98</line>
-          <option name="timeStamp" value="155" />
+          <url>file://$PROJECT_DIR$/03_Bigdata/97_190918_test/정수현_빅데이터저장관리_프로그램_test.py</url>
+          <line>138</line>
+          <option name="timeStamp" value="161" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="__py_debug_temp_var_780179349" />
-        <watch expression="worksheet.cell_type(row_index, col_index)" language="Python" />
         <watch expression="is_first" language="Python" />
+        <watch expression="sub_name" language="Python" />
+        <watch expression="os.listdir(sub_name)" language="Python" />
+        <watch expression="index" language="Python" />
         <watch expression="is_header" language="Python" />
-        <watch expression="config" language="Python" />
         <watch expression="dest_file_name" language="Python" />
+        <watch expression="file_name" language="Python" />
       </configuration>
     </watches-manager>
   </component>

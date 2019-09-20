@@ -25,21 +25,38 @@ def getTourPoint_csv(filewriter):
 
 def get_dest_file_name(file_index, base_repository_name, file_name, file_format, file_size_limit):
     global is_header
-    dest_file_name = f'{file_name}{str(file_index)}.{file_format}'
+    if file_format == 'csv':
+        dest_file_name = f'{base_repository_name}{dir_delimeter}{type_folder_1}{dir_delimeter}{file_name}{str(file_index)}.{file_format}'
 
-    try:
-        file_size = os.path.getsize(dest_file_name)
-        print(f"'{dest_file_name}' file size: {file_size}")
-        print(f"파일당 size 제한: {file_size_limit}")
+        try:
+            file_size = os.path.getsize(dest_file_name)
+            print(f"'{dest_file_name}' file size: {file_size}")
+            print(f"파일당 size 제한: {file_size_limit}")
 
-        if file_size > file_size_limit:
-            dest_file_name = f'{file_name}{str(file_index+1)}.{file_format}'
-            is_header = True
-        else:
-            is_header = False
-    except:
-        pass
-    return dest_file_name
+            if file_size > file_size_limit:
+                dest_file_name = f'{base_repository_name}{dir_delimeter}{type_folder_1}{dir_delimeter}{file_name}{str(file_index)+1}.{file_format}'
+                is_header = True
+            else:
+                is_header = False
+        except:
+            pass
+        return dest_file_name
+    elif file_format == 'xlsx':
+        dest_file_name = f'{base_repository_name}{dir_delimeter}{type_folder_2}{dir_delimeter}{file_name}{str(file_index)}.{file_format}'
+
+        try:
+            file_size = os.path.getsize(dest_file_name)
+            print(f"'{dest_file_name}' file size: {file_size}")
+            print(f"파일당 size 제한: {file_size_limit}")
+
+            if file_size > file_size_limit:
+                dest_file_name = f'{base_repository_name}{dir_delimeter}{type_folder_2}{dir_delimeter}{file_name}{str(file_index)+1}.{file_format}'
+                is_header = True
+            else:
+                is_header = False
+        except:
+            pass
+        return dest_file_name
 
 def save_file(file_index, base_repository_name, file_name, file_format, file_size_limit):
     dest_file_name = get_dest_file_name(file_index, base_repository_name, file_name, file_format, file_size_limit)
@@ -82,9 +99,6 @@ def save_file(file_index, base_repository_name, file_name, file_format, file_siz
         exel_output_file.save(dest_file_name)
 
 def file_count():
-    global base_repository_name
-    global type_folder_1
-    global type_folder_2
     if file_format == 'csv':
         csv_sub_name = f'{base_repository_name}{dir_delimeter}{type_folder_1}'
         index = len(os.listdir(csv_sub_name))
@@ -128,25 +142,23 @@ while True:
             if number == 1:
                 if not os.path.exists(base_repository_name):
                     os.mkdir(base_repository_name)
-                    os.chdir(base_repository_name)
-                    os.mkdir(type_folder_1)
-                    os.chdir(type_folder_1)
+                if not os.path.exists(f'{base_repository_name}{dir_delimeter}{type_folder_1}'):
+                    os.mkdir(f'{base_repository_name}{dir_delimeter}{type_folder_1}')
                     number += 1
                     if not os.path.exists(dest_file_name):
                         save_file(1, base_repository_name, file_name, file_format, file_size_limit)
                     else:
                         save_file(file_count(), base_repository_name, file_name, file_format, file_size_limit)
-                elif not os.path.exists(f'{base_repository_name}{dir_delimeter}{type_folder_1}'):
-                    os.mkdir(type_folder_1)
-                    os.chdir(type_folder_1)
+                else:
                     number += 1
+                    dest_file_name = f'{base_repository_name}{dir_delimeter}{type_folder_1}{dir_delimeter}{file_name}1.{file_format}'
                     if not os.path.exists(dest_file_name):
                         save_file(1, base_repository_name, file_name, file_format, file_size_limit)
                     else:
                         save_file(file_count(), base_repository_name, file_name, file_format, file_size_limit)
 
             elif number != 1:
-                dest_file_name = f'{file_name}1.{file_format}'
+                dest_file_name = f'{base_repository_name}{dir_delimeter}{type_folder_1}{dir_delimeter}{file_name}1.{file_format}'
                 if not os.path.exists(dest_file_name):
                     save_file(1, base_repository_name, file_name, file_format, file_size_limit)
                 else:
@@ -156,16 +168,14 @@ while True:
             if number_1 == 1:
                 if not os.path.exists(base_repository_name) and os.path.exists(dest_file_name):
                     os.mkdir(base_repository_name)
-                    os.chdir(base_repository_name)
-                    os.mkdir(type_folder_2)
-                    os.chdir(type_folder_2)
+                if not os.path.exists(f'{base_repository_name}{dir_delimeter}{type_folder_2}'):
+                    os.mkdir(f'{base_repository_name}{dir_delimeter}{type_folder_2}')
                     number_1 += 1
                     if not os.path.exists(dest_file_name):
                         save_file(1, base_repository_name, file_name, file_format, file_size_limit)
-                elif not os.path.exists(f'{base_repository_name}{dir_delimeter}{type_folder_2}'):
-                    os.chdir(base_repository_name)
-                    os.mkdir(type_folder_2)
-                    os.chdir(type_folder_2)
+                    else:
+                        save_file(file_count(), base_repository_name, file_name, file_format, file_size_limit)
+                else:
                     number_1 += 1
                     if not os.path.exists(dest_file_name):
                         save_file(1, base_repository_name, file_name, file_format, file_size_limit)
