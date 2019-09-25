@@ -26,17 +26,23 @@ item_number_to_find = ['1234', '2345', '3456', '4567', '5678', '6789', '7890']
 file_reader = csv.reader(open(input_file, 'r'), delimiter = ',')
 header = next(file_reader)
 for row in file_reader:
-     data = []
-     for column_index in range(len(header)):
-         if str(row[0]).split('.')[0].strip() in item_number_to_find:
+    data = []
+    for column_index in range(len(header)):
+         if str(row[0]).strip() in item_number_to_find:
              if column_index == 3:
                 data.append(str(row[column_index]).lstrip('$')\
                             .replace(',', '').strip())
              else:
                 data.append(row[column_index])
-     print(data)
-     c.execute("""INSERT INTO Suppliers 
-     (Item_Number,Description,Supplier,Cost,Date) VALUES (%s, %s, %s, %s, %s);""", data)
+         else:
+             break
+    if not data:
+        pass
+    else:
+        add_data = 'MySQL'
+        data.append(add_data)
+        c.execute("""INSERT INTO Suppliers 
+         (Item_Number,Description,Supplier,Cost,Date,File_name) VALUES (%s, %s, %s, %s, %s, %s);""", data)
 con.commit()
 
 c.execute("SELECT * FROM Suppliers")
