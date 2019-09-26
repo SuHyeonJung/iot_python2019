@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23772270-6602-4b28-a7c6-291ad19c7e9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/95_190924_test/search_for_items_write_found_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/10_student_info_normalization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/94_190925/DB_data_CRUD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/94_190925/DB_data_CRUD_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/94_190925/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/95_190924_test/search_for_items_write_found.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/95_190924_test/search_for_items_write_found.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,23 +35,23 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/95_190924_test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/94_190925" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Python_Workspace\03_Bigdata\95_190924_test" />
-      <recent name="C:\Python_Workspace\03_Bigdata\96_190923_test" />
-      <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\3. DB" />
-      <recent name="C:\Python_Workspace\03_Bigdata\97_190918_test" />
-      <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\2. Excel" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\03_Statistics_basic\1.basic_example" />
       <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\2. Excel" />
       <recent name="C:\Python_Workspace\04_Application\02_Distributed_Repository" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\99_example" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\01_basic" />
-      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\94_190925" />
+      <recent name="C:\Python_Workspace\03_Bigdata\95_190924_test" />
+      <recent name="C:\Python_Workspace\03_Bigdata\96_190923_test" />
+      <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\3. DB" />
+      <recent name="C:\Python_Workspace\03_Bigdata\97_190918_test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -64,50 +66,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.search_for_items_write_found_v2">
-    <configuration name="정수현-DB용_학생_주소록_로드_프로그램_ver1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Workspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/96_190923_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/96_190923_test/정수현-DB용_학생_주소록_로드_프로그램_ver1.0.py" />
-      <option name="PARAMETERS" value="Basic_Student_Info.csv" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="정수현-DB용_학생_주소록_로드_프로그램_ver1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Workspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/96_190923_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/96_190923_test/정수현-DB용_학생_주소록_로드_프로그램_ver1.0.py" />
-      <option name="PARAMETERS" value="Basic_Student_Info.csv" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1search_for_items_write_found" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3_statistics_basic_template">
+    <configuration name="2calculate_statistic_by_category" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,8 +79,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/1search_for_items_write_found.py" />
-      <option name="PARAMETERS" value="item_numbers_to_find.csv historical_files output_files/1output.csv" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/2calculate_statistic_by_category.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -128,7 +88,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6db_mysql_update_from_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3_statistics_basic_template" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1.basic_example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1.basic_example/3_statistics_basic_template.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9_student_info_standadizatuion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,8 +121,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/6db_mysql_update_from_csv.py" />
-      <option name="PARAMETERS" value="data_for_updating_mysql.csv" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/9_student_info_standadizatuion.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -149,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="search_for_items_write_found" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DB_data_CRUD" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,12 +138,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/95_190924_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/94_190925" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/95_190924_test/search_for_items_write_found.py" />
-      <option name="PARAMETERS" value="suppliers_2012.csv" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/94_190925/DB_data_CRUD.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -170,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="search_for_items_write_found_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,12 +159,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/95_190924_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/94_190925" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/95_190924_test/search_for_items_write_found_v2.py" />
-      <option name="PARAMETERS" value="1output.csv combine_data.csv" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/94_190925/test.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -192,19 +173,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.search_for_items_write_found" />
-      <item itemvalue="Python.6db_mysql_update_from_csv" />
-      <item itemvalue="Python.정수현-DB용_학생_주소록_로드_프로그램_ver1.0" />
-      <item itemvalue="Python.1search_for_items_write_found" />
-      <item itemvalue="Python.search_for_items_write_found_v2" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.DB_data_CRUD" />
+      <item itemvalue="Python.2calculate_statistic_by_category" />
+      <item itemvalue="Python.9_student_info_standadizatuion" />
+      <item itemvalue="Python.3_statistics_basic_template" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.search_for_items_write_found_v2" />
-        <item itemvalue="Python.search_for_items_write_found" />
-        <item itemvalue="Python.1search_for_items_write_found" />
-        <item itemvalue="Python.정수현-DB용_학생_주소록_로드_프로그램_ver1.0" />
-        <item itemvalue="Python.6db_mysql_update_from_csv" />
+        <item itemvalue="Python.3_statistics_basic_template" />
+        <item itemvalue="Python.9_student_info_standadizatuion" />
+        <item itemvalue="Python.DB_data_CRUD" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.2calculate_statistic_by_category" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569313761317</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="업데이트">
+      <created>1569377762167</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1569377762167</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -521,11 +509,6 @@
           <option name="timeStamp" value="160" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/2calculate_statistic_by_category.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="167" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/03_Bigdata/95_190924_test/통합_데이터_조회_프로그램_완성.py</url>
           <line>67</line>
           <option name="timeStamp" value="173" />
@@ -549,6 +532,21 @@
           <url>file://$PROJECT_DIR$/03_Bigdata/95_190924_test/search_for_items_write_found.py</url>
           <line>27</line>
           <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/99_study/dictionary.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/2calculate_statistic_by_category.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1.basic_example/3_statistics_basic_template.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="202" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
