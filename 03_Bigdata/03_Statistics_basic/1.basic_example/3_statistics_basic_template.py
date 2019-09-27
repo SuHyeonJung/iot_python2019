@@ -1,6 +1,7 @@
 import csv
 import math
 
+
 def get_row_index(search_key):
     index=0
     return index;
@@ -84,7 +85,6 @@ def my_deviation(column_name):
     total_sum = 0
     count = 0
     deviation = ['표본','평균','편차']
-    list = []
     for row in big_data:
         column =row.index(column_name)
         break
@@ -104,11 +104,31 @@ def my_deviation(column_name):
             list_1 = round(list[1], 2)
             list_2 = round(list[2], 2)
             print(list[0], list_1, list_2)
-
 def my_standard_deviation(column_name):
     pass
-def my_variance(column_name):
-    pass
+def my_variance(column_name, variance_list):
+    total_sum = 0
+    count = 0
+    for row in big_data:
+        column = row.index(column_name)
+        break
+    for row in big_data:
+        if column_name not in row:
+            print(row[column])
+            total_sum += int(row[column])
+            count += 1
+    average = total_sum / count
+    for row in big_data:
+        if column_name not in row:
+            list = []
+            list.append(row[column])
+            list.append(average)
+            list.append(float(row[column])-float(average))
+            list_1 = round(list[1], 2)
+            list_2 = round(list[2], 2)
+            variance = pow(list[0]-list_1, 2) / count
+            print(list[0], list_1, list_2)
+
 def my_sorting (column_name):
     pass
 def check_type(column_name):
