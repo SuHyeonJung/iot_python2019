@@ -2,15 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23772270-6602-4b28-a7c6-291ad19c7e9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/1_wine_quality_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/2_wine_quality_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/3_wine_auality_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/4_wine_quality_4_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/6_wine_quality_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/7_wine_quality_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/8_wine_quality_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/학생평가/wine_quality_10_평가_템플릿_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/학생평가/wine_quality_10_평가_템플릿_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/학생평가/wine_quality_10_평가_템플릿_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/학생평가/wine_quality_10_평가_템플릿_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/학생평가/wine_quality_10_평가_템플릿_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/학생평가/wine_quality_10_평가_템플릿_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_318_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_318_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_319_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_319_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_320_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_320_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_322.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_325.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_exer2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_exer4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/150_xor-train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/152_xor-train2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/155_iris-train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/155_iris-train_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/157_iris-train2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1.basic_example/3_statistics_basic_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1.basic_example/3_statistics_basic_template.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +52,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/94_190925" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -51,11 +64,11 @@
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\01_basic" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\03_Statistics_basic\3.Logistic Regression Analysis" />
+      <recent name="C:\Python_Workspace\03_Bigdata\03_Statistics_basic\2.Linear Regression Analysis\학생평가" />
+      <recent name="C:\Python_Workspace\03_Bigdata\03_Statistics_basic\2.Linear Regression Analysis" />
       <recent name="C:\Python_Workspace\03_Bigdata\94_190925" />
       <recent name="C:\Python_Workspace\03_Bigdata\95_190924_test" />
-      <recent name="C:\Python_Workspace\03_Bigdata\96_190923_test" />
-      <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\3. DB" />
-      <recent name="C:\Python_Workspace\03_Bigdata\97_190918_test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -70,8 +83,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3_statistics_basic_template">
-    <configuration name="3_statistics_basic_template" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.157_iris-train2">
+    <configuration name="152_xor-train2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1.basic_example" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1.basic_example/3_statistics_basic_template.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/152_xor-train2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_wine_quality_4_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="155_iris-train" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/4_wine_quality_4_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/155_iris-train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_wine_quality_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="155_iris-train_1_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/6_wine_quality_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/155_iris-train_1_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7_wine_quality_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="157_iris-train2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/7_wine_quality_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/157_iris-train2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8_wine_quality_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="customer_churn_exer4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/8_wine_quality_8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_exer4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,19 +190,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.4_wine_quality_4_5" />
-      <item itemvalue="Python.6_wine_quality_6" />
-      <item itemvalue="Python.7_wine_quality_7" />
-      <item itemvalue="Python.8_wine_quality_8" />
-      <item itemvalue="Python.3_statistics_basic_template" />
+      <item itemvalue="Python.152_xor-train2" />
+      <item itemvalue="Python.155_iris-train" />
+      <item itemvalue="Python.155_iris-train_1_2" />
+      <item itemvalue="Python.157_iris-train2" />
+      <item itemvalue="Python.customer_churn_exer4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3_statistics_basic_template" />
-        <item itemvalue="Python.8_wine_quality_8" />
-        <item itemvalue="Python.7_wine_quality_7" />
-        <item itemvalue="Python.6_wine_quality_6" />
-        <item itemvalue="Python.4_wine_quality_4_5" />
+        <item itemvalue="Python.157_iris-train2" />
+        <item itemvalue="Python.customer_churn_exer4" />
+        <item itemvalue="Python.155_iris-train_1_2" />
+        <item itemvalue="Python.155_iris-train" />
+        <item itemvalue="Python.152_xor-train2" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569485428906</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="업데이트">
+      <created>1569569203877</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569569203877</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -571,15 +591,36 @@
           <line>9</line>
           <option name="timeStamp" value="205" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_319_1.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/학생평가/wine_quality_10_평가_템플릿_6.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_318_1.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/157_iris-train2.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="__py_debug_temp_var_780179349" />
-        <watch expression="workbook.sheets()" language="Python" />
-        <watch expression="worksheet.cell(row,0).value).split('.')[0].strip()" language="Python" />
-        <watch expression="str(row[column_index].cell(row,0).value).split('.')[0].strip()" language="Python" />
-        <watch expression="row[column_index]" language="Python" />
+        <watch expression="churn._combine_match_columns()" language="Python" />
+        <watch expression="heading.lower()" language="Python" />
+        <watch expression="churn['churn01']" language="Python" />
+        <watch expression="churn.groupby(['churn01'])[['day_charge', 'eve_charge', 'night_charge', 'intl_charge', 'account_length', 'custserv_calls']].agg(['count', 'mean', 'std'])" language="Python" />
+        <watch expression="type(test_data)" language="Python" />
       </configuration>
     </watches-manager>
   </component>
