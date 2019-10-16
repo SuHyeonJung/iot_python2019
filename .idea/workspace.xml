@@ -2,28 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23772270-6602-4b28-a7c6-291ad19c7e9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/학생평가/wine_quality_10_평가_템플릿_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/학생평가/wine_quality_10_평가_템플릿_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/학생평가/wine_quality_10_평가_템플릿_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/학생평가/wine_quality_10_평가_템플릿_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/학생평가/wine_quality_10_평가_템플릿_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/학생평가/wine_quality_10_평가_템플릿_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_318_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_318_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_319_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_319_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_320_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_320_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_322.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_325.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_exer2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_exer4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/150_xor-train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/152_xor-train2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/155_iris-train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/155_iris-train_1_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/157_iris-train2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2.Linear Regression Analysis/Housing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/02.Unsupervised/199_cross-iris.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/02.Unsupervised/1_clusters_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/02.Unsupervised/200_cross-iris2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/02.Unsupervised/2_clusters_validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/02.Unsupervised/3_clustering_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/191016_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/191016_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/1_CountVectorizer_11-4-preprocessing-scikit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/297_bayes_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/2_CountVectorizer_11-5-logistic-regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/2_logistic_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/3_OKT_275_konlpy-basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/4_OKT_277_어휘분석.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/5_OKT_word2vec_282_형태소분석_전처리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/6_OKT_word2vec_284_의미분석.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/bayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/practice/1_CountVectorizer_TfidTransformer/1_pos_neg/textmining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/practice/1_CountVectorizer_TfidTransformer/2_Clothing_Review/1_preprocessing_scikit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/practice/1_CountVectorizer_TfidTransformer/2_Clothing_Review/2_logistic_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/practice/1_CountVectorizer_TfidTransformer/3_Movie_Review/1_text_mining_pre.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/practice/1_CountVectorizer_TfidTransformer/3_Movie_Review/2_text_mining_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/practice/1_CountVectorizer_TfidTransformer/4_starwars/1_preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/practice/1_CountVectorizer_TfidTransformer/4_starwars/2_text_mining_make_logistic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/03.Deep Leaning/42_matplotlib.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/150_xor-train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/152_xor-train2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/155_iris-train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/155_iris-train_1_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/157_iris-train2.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,23 +61,23 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\04_AI\01.Machine Learning" />
       <recent name="C:\Python_Workspace\03_Bigdata\03_Statistics_basic\1.basic_example" />
       <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\2. Excel" />
       <recent name="C:\Python_Workspace\04_Application\02_Distributed_Repository" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\99_example" />
-      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\01_basic" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\04_AI\02.Text Mining" />
+      <recent name="C:\Python_Workspace\03_Bigdata\04_AI\02.Text Mining\practice\1_CountVectorizer_TfidTransformer\4_starwars" />
+      <recent name="C:\Python_Workspace\03_Bigdata\04_AI\02.Text Mining\practice\1_CountVectorizer_TfidTransformer\3_Movie_Review" />
+      <recent name="C:\Python_Workspace\03_Bigdata\04_AI\01.Machine Learning" />
       <recent name="C:\Python_Workspace\03_Bigdata\03_Statistics_basic\3.Logistic Regression Analysis" />
-      <recent name="C:\Python_Workspace\03_Bigdata\03_Statistics_basic\2.Linear Regression Analysis\학생평가" />
-      <recent name="C:\Python_Workspace\03_Bigdata\03_Statistics_basic\2.Linear Regression Analysis" />
-      <recent name="C:\Python_Workspace\03_Bigdata\94_190925" />
-      <recent name="C:\Python_Workspace\03_Bigdata\95_190924_test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -83,8 +92,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.157_iris-train2">
-    <configuration name="152_xor-train2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.191016_2">
+    <configuration name="191016_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/152_xor-train2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/191016_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="155_iris-train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="191016_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/155_iris-train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/191016_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="155_iris-train_1_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="297_bayes_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/155_iris-train_1_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/297_bayes_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="157_iris-train2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5_OKT_word2vec_282_형태소분석_전처리" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/157_iris-train2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/5_OKT_word2vec_282_형태소분석_전처리.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="customer_churn_exer4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6_OKT_word2vec_284_의미분석" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,11 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3.Logistic Regression Analysis/customer_churn_exer4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/6_OKT_word2vec_284_의미분석.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,19 +199,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.152_xor-train2" />
-      <item itemvalue="Python.155_iris-train" />
-      <item itemvalue="Python.155_iris-train_1_2" />
-      <item itemvalue="Python.157_iris-train2" />
-      <item itemvalue="Python.customer_churn_exer4" />
+      <item itemvalue="Python.297_bayes_test" />
+      <item itemvalue="Python.5_OKT_word2vec_282_형태소분석_전처리" />
+      <item itemvalue="Python.6_OKT_word2vec_284_의미분석" />
+      <item itemvalue="Python.191016_1" />
+      <item itemvalue="Python.191016_2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.157_iris-train2" />
-        <item itemvalue="Python.customer_churn_exer4" />
-        <item itemvalue="Python.155_iris-train_1_2" />
-        <item itemvalue="Python.155_iris-train" />
-        <item itemvalue="Python.152_xor-train2" />
+        <item itemvalue="Python.191016_2" />
+        <item itemvalue="Python.191016_1" />
+        <item itemvalue="Python.297_bayes_test" />
+        <item itemvalue="Python.6_OKT_word2vec_284_의미분석" />
+        <item itemvalue="Python.5_OKT_word2vec_282_형태소분석_전처리" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569569203877</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="업데이트">
+      <created>1570003822993</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1570003822993</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -607,20 +623,38 @@
           <option name="timeStamp" value="214" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Bigdata/04_AI/01.Machine Learning/157_iris-train2.py</url>
-          <line>9</line>
+          <url>file://$PROJECT_DIR$/10_08/3_clustering_example (1).py</url>
+          <line>148</line>
           <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10_08/3_clustering_example (1).py</url>
+          <line>154</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/practice/1_CountVectorizer_TfidTransformer/4_starwars/1_preprocessing.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/4_OKT_277_어휘분석.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/191016_1.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="223" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="__py_debug_temp_var_780179349" />
-        <watch expression="churn._combine_match_columns()" language="Python" />
-        <watch expression="heading.lower()" language="Python" />
-        <watch expression="churn['churn01']" language="Python" />
-        <watch expression="churn.groupby(['churn01'])[['day_charge', 'eve_charge', 'night_charge', 'intl_charge', 'account_length', 'custserv_calls']].agg(['count', 'mean', 'std'])" language="Python" />
-        <watch expression="type(test_data)" language="Python" />
+        <watch expression="delta_minus(house['price'][index])" language="Python" />
+        <watch expression="delta_minus" language="Python" />
+        <watch expression="rank" language="Python" />
       </configuration>
     </watches-manager>
   </component>
