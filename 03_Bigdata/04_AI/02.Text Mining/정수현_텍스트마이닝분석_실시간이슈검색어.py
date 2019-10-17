@@ -1,3 +1,9 @@
+# 과제 수행 목표: 한글 text를 대상으로 한 텍스트마이닝 적용
+# 데이터 출처: 웹크로링을 이용한 실시간 검색어를 txt로 저장
+# 텍스트 데이터: 코드 실행 시 자동으로 생성
+# 예측 항목: 주요 어휘 분석
+# 어휘 분류 기준:많이 사용된 명사 출현 횟수
+
 import urllib.request
 from bs4 import BeautifulSoup
 import codecs
@@ -17,7 +23,6 @@ for tr in tag:
         continue
     data.append(tag_baby.text)
 
-# print(data)
 txt_file = 'search_realtime.txt'
 with open(txt_file, 'w', encoding='utf-8') as fp:
     fp.write("\n".join(data))
