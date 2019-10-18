@@ -1,0 +1,15 @@
+# 회귀선과 일변량 히스토그램을 포함한 산점도
+import seaborn as sns
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+sns.set(color_codes=True)
+
+tips = sns.load_dataset('tips')
+print(tips.head(100))
+tips["big_tip"] = (tips.tip / tips.total_bill) > .15
+sns.lmplot(x="total_bill", y="big_tip", data=tips, logistic=True, y_jitter=.03).set_axis_labels('Total_bill', 'Big Tip')
+plt.title("Logistic Regression of big Tip vs. Total Bill")
+
+plt.show()

@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23772270-6602-4b28-a7c6-291ad19c7e9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/정수현_텍스트마이닝분석_많이본뉴스.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/206_basic_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/207_basic_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/208_multi_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/214_subplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/215_subplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/216_add_text_in_the_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/280_matplotlib_basic_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/282_matplolib_basic_histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/284_matplotlib_basic_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/285_matplotlib_basic_scatter2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/285_matplotlib_basic_scatter_predict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/288_matplotlib_basic_boxplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/288_matplotlib_basic_boxplot_test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step4_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step4_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/tourist_statistics_service_128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/3_tensorflow/01_basic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/191016_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/02.Text Mining/정수현_텍스트마이닝분석_실시간이슈검색어.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,19 +50,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Python_Workspace\04_Application\03_Standardization_Analysis\03_Visualization\1_basic" />
-      <recent name="C:\Python_Workspace\03_Bigdata\04_AI\02.Text Mining" />
-      <recent name="C:\Python_Workspace\03_Bigdata\04_AI\02.Text Mining\practice\1_CountVectorizer_TfidTransformer\4_starwars" />
-      <recent name="C:\Python_Workspace\03_Bigdata\04_AI\02.Text Mining\practice\1_CountVectorizer_TfidTransformer\3_Movie_Review" />
-      <recent name="C:\Python_Workspace\03_Bigdata\04_AI\01.Machine Learning" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Python_Workspace\03_Bigdata\04_AI\01.Machine Learning" />
       <recent name="C:\Python_Workspace\03_Bigdata\03_Statistics_basic\1.basic_example" />
       <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\2. Excel" />
       <recent name="C:\Python_Workspace\04_Application\02_Distributed_Repository" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\99_example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\04_Application\03_Standardization_Analysis\03_Visualization\1_basic" />
+      <recent name="C:\Python_Workspace\03_Bigdata\04_AI\02.Text Mining" />
+      <recent name="C:\Python_Workspace\03_Bigdata\04_AI\02.Text Mining\practice\1_CountVectorizer_TfidTransformer\4_starwars" />
+      <recent name="C:\Python_Workspace\03_Bigdata\04_AI\02.Text Mining\practice\1_CountVectorizer_TfidTransformer\3_Movie_Review" />
+      <recent name="C:\Python_Workspace\03_Bigdata\04_AI\01.Machine Learning" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -70,8 +77,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.216_add_text_in_the_graph">
-    <configuration name="207_basic_graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.01_basic">
+    <configuration name="01_basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/3_tensorflow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/207_basic_graph.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/3_tensorflow/01_basic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="208_multi_graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="295_seaborn_plots_step3_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/208_multi_graph.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step3_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="214_subplot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="295_seaborn_plots_step4_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/214_subplot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step4_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="215_subplot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="295_seaborn_plots_step4_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/215_subplot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step4_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="216_add_text_in_the_graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tourist_statistics_service_128" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,7 +174,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/216_add_text_in_the_graph.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/tourist_statistics_service_128.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,19 +184,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.207_basic_graph" />
-      <item itemvalue="Python.215_subplot" />
-      <item itemvalue="Python.214_subplot" />
-      <item itemvalue="Python.208_multi_graph" />
-      <item itemvalue="Python.216_add_text_in_the_graph" />
+      <item itemvalue="Python.295_seaborn_plots_step4_2" />
+      <item itemvalue="Python.295_seaborn_plots_step3_2" />
+      <item itemvalue="Python.295_seaborn_plots_step4_4" />
+      <item itemvalue="Python.tourist_statistics_service_128" />
+      <item itemvalue="Python.01_basic" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.216_add_text_in_the_graph" />
-        <item itemvalue="Python.208_multi_graph" />
-        <item itemvalue="Python.214_subplot" />
-        <item itemvalue="Python.215_subplot" />
-        <item itemvalue="Python.207_basic_graph" />
+        <item itemvalue="Python.01_basic" />
+        <item itemvalue="Python.tourist_statistics_service_128" />
+        <item itemvalue="Python.295_seaborn_plots_step4_2" />
+        <item itemvalue="Python.295_seaborn_plots_step4_4" />
+        <item itemvalue="Python.295_seaborn_plots_step3_2" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571213225754</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="업데이트">
+      <created>1571300529601</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1571300529601</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
