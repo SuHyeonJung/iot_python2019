@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23772270-6602-4b28-a7c6-291ad19c7e9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/280_matplotlib_basic_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/282_matplolib_basic_histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/284_matplotlib_basic_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/285_matplotlib_basic_scatter2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/285_matplotlib_basic_scatter_predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/288_matplotlib_basic_boxplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/288_matplotlib_basic_boxplot_test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/tourist_statistics_service_128.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/3_tensorflow/01_basic.py" afterDir="false" />
+    <list default="true" id="23772270-6602-4b28-a7c6-291ad19c7e9d" name="Default Changelist" comment="업데이트">
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/04.추천알고리즘_예제/1.Context_based/1_collect-movie-plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/04_AI/04.추천알고리즘_예제/1.Context_based/2_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/93_프로젝트/process_Sample_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/04_Visualiztion/3_vocalization/Vocalization_google.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/04_Visualiztion/3_vocalization/Vocalization_naver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/05_integration/1_REST_Server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_Workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Workspace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_mic_test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_mic_test/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_mic_test/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_mic_test/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_mic_test/voice.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_mic_test/voice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_mic_test/voice_kr.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_mic_test/voice_kr.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +43,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -58,11 +55,11 @@
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Reguar_Expression\99_example" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\93_프로젝트" />
       <recent name="C:\Python_Workspace\04_Application\03_Standardization_Analysis\03_Visualization\1_basic" />
       <recent name="C:\Python_Workspace\03_Bigdata\04_AI\02.Text Mining" />
       <recent name="C:\Python_Workspace\03_Bigdata\04_AI\02.Text Mining\practice\1_CountVectorizer_TfidTransformer\4_starwars" />
       <recent name="C:\Python_Workspace\03_Bigdata\04_AI\02.Text Mining\practice\1_CountVectorizer_TfidTransformer\3_Movie_Review" />
-      <recent name="C:\Python_Workspace\03_Bigdata\04_AI\01.Machine Learning" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -77,7 +74,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01_basic">
+  <component name="RunManager" selected="Python.1_collect-movie-plot">
+    <configuration name="정수현-DB용_학생_주소록_관리_프로그램_ver1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/96_190923_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/96_190923_test/정수현-DB용_학생_주소록_관리_프로그램_ver1.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="01_basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="295_seaborn_plots_step3_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1_collect-movie-plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/04.추천알고리즘_예제/1.Context_based" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step3_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/04.추천알고리즘_예제/1.Context_based/1_collect-movie-plot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="295_seaborn_plots_step4_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,32 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/04_AI/04.추천알고리즘_예제/1.Context_based" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step4_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="295_seaborn_plots_step4_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Workspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Standardization_Analysis/03_Visualization/1_basic/295_seaborn_plots_step4_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/04_AI/04.추천알고리즘_예제/1.Context_based/2_.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,19 +181,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.295_seaborn_plots_step4_2" />
-      <item itemvalue="Python.295_seaborn_plots_step3_2" />
-      <item itemvalue="Python.295_seaborn_plots_step4_4" />
       <item itemvalue="Python.tourist_statistics_service_128" />
       <item itemvalue="Python.01_basic" />
+      <item itemvalue="Python.정수현-DB용_학생_주소록_관리_프로그램_ver1.0" />
+      <item itemvalue="Python.1_collect-movie-plot" />
+      <item itemvalue="Python.2_" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1_collect-movie-plot" />
+        <item itemvalue="Python.2_" />
+        <item itemvalue="Python.정수현-DB용_학생_주소록_관리_프로그램_ver1.0" />
         <item itemvalue="Python.01_basic" />
         <item itemvalue="Python.tourist_statistics_service_128" />
-        <item itemvalue="Python.295_seaborn_plots_step4_2" />
-        <item itemvalue="Python.295_seaborn_plots_step4_4" />
-        <item itemvalue="Python.295_seaborn_plots_step3_2" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571300529601</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="업데이트">
+      <created>1571386393165</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1571386393165</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,11 +465,6 @@
           <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data/process_Sample_example.py</url>
           <line>74</line>
           <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/02_data/process_Sample_example.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/04_Application/01_Simulator/02_parsing.py</url>
@@ -657,20 +656,5 @@
         <watch expression="tag_baby1.text" language="Python" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
